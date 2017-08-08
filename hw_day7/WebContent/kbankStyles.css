@@ -1,1 +1,11 @@
-@charset "ISO-8859-1";
+body {
+    background-color: #f7f1e6;
+}
+h1.ridgeBorder{
+	text-align: center;
+	font-family: "Verdana", sans-serif;
+	font-style: italic;
+	border-style: ridge;
+	background-color: #cbf4f8
+}
+

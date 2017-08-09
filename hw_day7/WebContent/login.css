@@ -3,16 +3,16 @@ body {
    background-image: url(./th.jpg);
     
 }
-form.ridgeBorder{
+form.login{
 	text-align: center;
 	font-family: "Verdana", sans-serif;
 	font-style: normal;
 	border-style: ridge;
 	background-image: url(./formbg.jpg);
 	width: 500px;
-	margin: 50px auto;
-	height: 100px; 
-	padding-top: 100px;
+	margin: 0 auto;
+	height: 110px; 
+	padding: 10px;
 }
 h1.header {
 	text-align: center;
@@ -21,8 +21,4 @@ h1.header {
 	color: white;
 	font-size: 50px; 
 	
-}
-h2{
-	font-family: "Verdana", sans-serif;
-	color: #faefdc;
 }

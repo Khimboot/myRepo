@@ -1,4 +1,4 @@
-package day6_threading_java;
+package com.oocl.tengkh.sample;
 
 public interface Generator<T> {
 

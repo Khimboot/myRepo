@@ -1,10 +1,11 @@
-package day6_threading_java;
-
+package com.oocl.tengkh.sw;
 import java.util.Scanner;
 
 import javax.management.relation.RelationServiceNotRegisteredException;
-
-public class E03_regex {
+/*
+ * RegEx Exercise 
+ * */
+public class Exercise3_RegEx {
 
 	public static void main(String[] args) {
 		

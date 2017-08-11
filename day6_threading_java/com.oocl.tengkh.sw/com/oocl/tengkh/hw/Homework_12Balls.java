@@ -1,4 +1,4 @@
-package day6_threading_java;
+package com.oocl.tengkh.hw;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
@@ -9,7 +9,7 @@ import java.util.Set;
 
 //HAPPY CASE
 
-public class hw_balls {
+public class Homework_12Balls {
 	public static void main(String[] args) {
 		//Random rand = new Random();
 		

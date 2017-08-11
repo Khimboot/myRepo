@@ -1,4 +1,4 @@
-package day6_threading_java;
+package com.oocl.tengkh.sw;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ In main(), call the method but only use a single catch clause that will catch al
 */
 
 
-public class E06_exceptionHandling2 {
+public class Exercise6_ExceptionHandling2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -17,7 +17,7 @@ public class E06_exceptionHandling2 {
 		exceptions.One();
 		}
 		catch(Exception e) {
-			System.out.println("CHARRRR~");
+			System.out.println("Exception has been handled.");
 		}
 		
 	}

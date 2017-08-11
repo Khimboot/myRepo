@@ -1,8 +1,17 @@
-package day6_threading_java;
+package com.oocl.tengkh.sample;
 
 import java.util.Arrays;
-
-public class E02_Fibonacci {
+/*
+ * Sample Fibonacci implements Runnable
+ * 
+ * OUTPUT:
+Seq. of 2: [1, 1]
+Seq. of 4: [1, 1, 2, 3]
+Seq. of 5: [1, 1, 2, 3, 5]
+Seq. of 1: [1]
+Seq. of 3: [1, 1, 2]
+ * */
+public class Sample2_Threads_Runnable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
-package day6_threading_java;
+package com.oocl.tengkh.sw;
 
-public class E05_exceptionHandling {
+public class Exercise5_ExceptionHandling {
 	public static void main(String[] args) {
 
 		Except exception = new Except();

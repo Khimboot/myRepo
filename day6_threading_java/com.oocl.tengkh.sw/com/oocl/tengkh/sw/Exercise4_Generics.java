@@ -1,15 +1,15 @@
-package day6_threading_java;
+package com.oocl.tengkh.sw;
 
-public class E04_Generics {
+public class Exercise4_Generics {
 	public static void main(String[] args) {
-		//holderOfObjects<String> holder = new holderOfObjects("A", "B", "C");
+		holderOfObjects<String> holder = new holderOfObjects("A", "B", "C");
 		//holderOfObjects<Integer> holder = new holderOfObjects(1, 2, 3);
 		//holderOfObjects<Boolean> holder = new holderOfObjects(true, false, false);
 		Drinks a1, a2, a3;
-		a1 = new Drinks("Cold1","Hot1");
+		/*a1 = new Drinks("Cold1","Hot1");
 		a2 = new Drinks("Cold2","Hot2");
 		a3 = new Drinks("Cold3","Hot3");
-		holderOfObjects<Drinks> holder = new holderOfObjects(a1,a2,a3);
+		holderOfObjects<Drinks> holder = new holderOfObjects(a1,a2,a3);*/
 		System.out.println(holder.getA().toString());
 		System.out.println(holder.getB().toString());
 		System.out.println(holder.getC().toString());
